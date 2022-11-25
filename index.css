@@ -122,6 +122,18 @@ input[type = "radio"]:checked{
 }
 
 
+#pandas{
+    padding: 15px;
+    width: 800px;
+    height: 300px;
+    border: 2px solid wheat;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+}
+
+
 
 
 
